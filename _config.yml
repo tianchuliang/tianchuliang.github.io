@@ -15,7 +15,7 @@ url: "https://tianchuliang.github.io" # the base hostname & protocol for your si
 # Delete the word 'example' if you don't want to include the icon in the left sidebar
 
 github_username: tianchuliang           # Replace this with your GitHub username
-linkedin_username: Tianchu (Alex) Liang # Replace this with your LinkedIn username
+linkedin_username: tianchu-alex-liang-5601752a # Replace this with your LinkedIn username
 
 # Build settings
 markdown: kramdown
