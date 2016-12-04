@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "About Me"
+date:   2016-12-03 23:44:17 -0400
+categories: About
+---
+Hello, I am Alex Liang and welcome to my personal website. I am currently a master studuent in computer science at Georgia Institute of Technology (Georgia Tech) and I am graduating this winter 2016. Previous to that, I went Lawrence University and obtained BA with a double major in physics and mathematics. 
